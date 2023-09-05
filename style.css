@@ -306,7 +306,7 @@
 }
 
 #liste {
-    height: 800px;
+    height: 900px;
     max-width: 100%;
     background: aliceblue;
     display: flex;
@@ -357,8 +357,20 @@
     
 }
 
-.liste.other h2{
+.other {
+    width: 100%;
+    margin-top: 2rem;
+}
 
+.inbetween h2 {
+    color: black;
+    margin-right: 4rem;
+    margin-top: 3rem;
+}
+
+.other ul {
+    margin-top: 1rem;
+    color: steelblue;
 }
 
 .footer {
